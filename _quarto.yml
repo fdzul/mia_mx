@@ -2,12 +2,25 @@ project:
   type: book
 
 book:
-  title: "mia_mx"
-  author: "Jane Doe"
-  date: "8/1/2023"
+  title: <span style="color:#003300;">Manejo Integrado de la Arbovirosis en México</span>
+  subtitle: <span style="color:#003300;">Con Énfasis en Áreas Urbanas Endémicas y en Aedes Aegypti</span>
+  author: "Felipe Dzul-Manzanilla | Fabián Correa-Morales"
+  date: "2023-08-01"
+  site-url: https://github.com/fdzul/
+  repo-url: https://github.com/fdzul/
   chapters:
     - index.qmd
     - intro.qmd
+    - objetivo.qmd
+    - part: part1.qmd
+      chapters:
+        - mia_mx.qmd
+    - part: part2.qmd
+      chapters:
+        - hotspots_transmision_persistente.qmd
+        - hotspots_vector.qmd
+        - definicion_escenarios_operativos.qmd
+    - part: part3.qmd
     - summary.qmd
     - references.qmd
 
@@ -15,9 +28,19 @@ bibliography: references.bib
 
 format:
   html:
+    link-external-icon: true
+    title-block-banner: false
+    date-modified: "2023-08-01"
+    last-modified: true
+    embed-resources: true
     theme: cosmo
-  pdf:
-    documentclass: scrreprt
-
-editor: visual
-
+    number-depth: 3
+    code-fold: false
+    code-summary: "Code"
+    code-tools: true
+    code-link: true
+    knitr:
+      opts_chunk:
+        out.width: 100%
+        R.options:
+          width: 68

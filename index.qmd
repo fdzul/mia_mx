@@ -1,9 +1,12 @@
-# Preface {.unnumbered}
 
-This is a Quarto book.
+# Bienvenida {.unnumbered}
 
-To learn more about Quarto books visit <https://quarto.org/docs/books>.
+# Prologo 
 
-```{r}
-1 + 1
-```
+# Justificación
+
+# Software & Convenciones
+
+# Estructura del Documento
+
+# Agradecimientos

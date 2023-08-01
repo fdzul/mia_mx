@@ -1,0 +1,9 @@
+
+# Identificación de lo Hotspots de la Transmision Persistente
+
+
+## Definición conceptual y teórica de los hotspots
+
+## Algoritmo de la identificación de los hotspots
+
+## Identificación de los hotspots en R

@@ -1,0 +1,72 @@
+[
+  {
+    "objectID": "objetivo.html",
+    "href": "objetivo.html",
+    "title": "Objetivo General",
+    "section": "",
+    "text": "This is a book created from markdown and executable code.\n\nObjetivos Específicos"
+  },
+  {
+    "objectID": "intro.html",
+    "href": "intro.html",
+    "title": "\n1  Introduction\n",
+    "section": "",
+    "text": "This is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+  },
+  {
+    "objectID": "mia_mx.html#mia-en-mexico",
+    "href": "mia_mx.html#mia-en-mexico",
+    "title": "2  Manejo Integrado de Aedes",
+    "section": "2.1 MIA en Mexico",
+    "text": "2.1 MIA en Mexico"
+  },
+  {
+    "objectID": "mia_mx.html#mia-áreas-urbanas-endémicas-en-méxico",
+    "href": "mia_mx.html#mia-áreas-urbanas-endémicas-en-méxico",
+    "title": "2  Manejo Integrado de Aedes",
+    "section": "2.2 MIA áreas urbanas endémicas en México",
+    "text": "2.2 MIA áreas urbanas endémicas en México"
+  },
+  {
+    "objectID": "hotspots_transmision_persistente.html#definición-conceptual-y-teórica-de-los-hotspots",
+    "href": "hotspots_transmision_persistente.html#definición-conceptual-y-teórica-de-los-hotspots",
+    "title": "3  Identificación de lo Hotspots de la Transmision Persistente",
+    "section": "3.1 Definición conceptual y teórica de los hotspots",
+    "text": "3.1 Definición conceptual y teórica de los hotspots"
+  },
+  {
+    "objectID": "hotspots_transmision_persistente.html#algoritmo-de-la-identificación-de-los-hotspots",
+    "href": "hotspots_transmision_persistente.html#algoritmo-de-la-identificación-de-los-hotspots",
+    "title": "3  Identificación de lo Hotspots de la Transmision Persistente",
+    "section": "3.2 Algoritmo de la identificación de los hotspots",
+    "text": "3.2 Algoritmo de la identificación de los hotspots"
+  },
+  {
+    "objectID": "hotspots_transmision_persistente.html#identificación-de-los-hotspots-en-r",
+    "href": "hotspots_transmision_persistente.html#identificación-de-los-hotspots-en-r",
+    "title": "3  Identificación de lo Hotspots de la Transmision Persistente",
+    "section": "3.3 Identificación de los hotspots en R",
+    "text": "3.3 Identificación de los hotspots en R"
+  },
+  {
+    "objectID": "summary.html",
+    "href": "summary.html",
+    "title": "\n6  Summary\n",
+    "section": "",
+    "text": "In summary, this book has no content whatsoever.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "References",
+    "section": "",
+    "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Manejo Integrado de la Arbovirosis en México",
+    "section": "",
+    "text": "Bienvenida\n\n\nPrologo\n\n\nJustificación\n\n\nSoftware & Convenciones\n\n\nEstructura del Documento\n\n\nAgradecimientos"
+  }
+]
