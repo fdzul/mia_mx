@@ -1,10 +1,10 @@
 [
   {
-    "objectID": "objetivo.html",
-    "href": "objetivo.html",
-    "title": "Objetivo General",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Manejo Integrado de la Arbovirosis en México",
     "section": "",
-    "text": "This is a book created from markdown and executable code.\n\nObjetivos Específicos"
+    "text": "Bienvenida\n\n\nPrologo\n\n\nJustificación\n\n\nSoftware & Convenciones\n\n\nEstructura del Documento\n\n\nAgradecimientos"
   },
   {
     "objectID": "intro.html",
@@ -12,6 +12,13 @@
     "title": "\n1  Introduction\n",
     "section": "",
     "text": "This is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+  },
+  {
+    "objectID": "objetivo.html",
+    "href": "objetivo.html",
+    "title": "Objetivo General",
+    "section": "",
+    "text": "This is a book created from markdown and executable code.\n\nObjetivos Específicos"
   },
   {
     "objectID": "mia_mx.html#mia-en-mexico",
@@ -61,12 +68,5 @@
     "title": "References",
     "section": "",
     "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Manejo Integrado de la Arbovirosis en México",
-    "section": "",
-    "text": "Bienvenida\n\n\nPrologo\n\n\nJustificación\n\n\nSoftware & Convenciones\n\n\nEstructura del Documento\n\n\nAgradecimientos"
   }
 ]
