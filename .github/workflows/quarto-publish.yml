@@ -9,10 +9,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Check out repository
-        uses: actions/checkout@v3 
+        uses: actions/checkout@v2 
         
       - name: Set up Quarto
-        uses: quarto-dev/quarto-actions/setup@v3
+        uses: quarto-dev/quarto-actions/setup@v2
         with:
           # To install LaTeX to build PDF book 
           tinytex: true 
