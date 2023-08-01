@@ -4,6 +4,8 @@ on:
 
 name: Render and Publish
 
+env:
+          ACTIONS_ALLOW_UNSECURE_COMMANDS: 'true'
 jobs:
   build-deploy:
     runs-on: ubuntu-latest
@@ -26,5 +28,4 @@ jobs:
         with:
           target: gh-pages
         env:
-          ACTIONS_ALLOW_UNSECURE_COMMANDS: 'true'
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # this secret is always available for github actions
