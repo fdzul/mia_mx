@@ -26,4 +26,4 @@ jobs:
         with:
           target: gh-pages
         env:
-          GITHUB_TOKEN: ${{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}} # this secret is always available for github actions
+          GITHUB_TOKEN: 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 # this secret is always available for github actions
