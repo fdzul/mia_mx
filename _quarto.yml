@@ -1,22 +1,6 @@
 project:
   type: book
 
-sidebar:
-    logo: "images/openscapes_hex.png"
-    pinned: true
-    align: center
-    tools: 
-      - icon: globe
-        href: https://openscapes.org
-        text: "Openscapes.org"
-      - icon: github
-        href: https://github.com/openscapes/quarto-website-tutorial
-        text: "Quarto website tutorial"
-      - icon: twitter
-        href: https://twitter.com/openscapes
-        text: "Openscapes Twitter"  
-
-
 book:
   title: <span style="color:#003300;">Manejo Integrado de la Arbovirosis en México</span>
   subtitle: <span style="color:#003300;">Con Énfasis en Áreas Urbanas Endémicas de Dengue y en Aedes Aegypti</span>
