@@ -1,6 +1,18 @@
 project:
   type: book
 
+sidebar:
+   tools: 
+      - icon: globe
+        href: https://openscapes.org
+        text: "Openscapes.org"
+      - icon: github
+        href: https://github.com/openscapes/quarto-website-tutorial
+        text: "Quarto website tutorial"
+      - icon: twitter
+        href: https://twitter.com/fdzul
+        text: "Openscapes Twitter"
+
 book:
   title: <span style="color:#003300;">Manejo Integrado de la Arbovirosis en México</span>
   subtitle: <span style="color:#003300;">Con Énfasis en Áreas Urbanas Endémicas de Dengue y en Aedes Aegypti</span>
@@ -8,6 +20,7 @@ book:
   date: "2023-08-01"
   site-url: https://github.com/fdzul/
   repo-url: https://github.com/fdzul/
+  repo-actions: [edit, issue]
   chapters:
     - index.qmd
     - intro.qmd
