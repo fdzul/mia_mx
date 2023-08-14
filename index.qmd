@@ -1,12 +1,12 @@
 
-# Bienvenida {.unnumbered}
+# Bienvenida. {.unnumbered}
 
-# Prologo 
+# Prologo.
 
-# Justificación
+# Justificación.
 
-# Software & Convenciones
+# Software & Convenciones.
 
-# Estructura del Documento
+# Estructura del Documento.
 
-# Agradecimientos
+# Agradecimientos.
