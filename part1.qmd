@@ -3,8 +3,9 @@
 
 EL MIV incluye un portafolio de intervenciones combinadas y sincronizadas en tiempo y espacio basado en el conocimiento de la biología de los vectores, ciclos de transmisión, inmunidad de las poblaciones humanas y condiciones sociales y ecológicas. El fin ultimo de manejo integrada de vectores es reducir o interrumpir la transmisión por medio de la prevención, reducción y/ó eliminación de las condiciones que favorecen el desarollo y las abundancias de los vectores. 
 
-La Respuesta mundial para el control de vectores 2017-2030 (GVCR) (OMS, 2017) proporciona guía para fortalecer el control integrado de vectores a través del fortalecimiento de la capacidad, una mejor vigilancia, una mejor coordinación y una acción integrada entre sectores y enfermedades. 
+En el documento títulado la **Respuesta Global para el Control del Vector** de la Organización Mundial de la Salud (OMS, 2017) se proporciona una guía para fortalecer el control integrado de vectores a través del fortalecimiento de la capacidad, una mejor vigilancia, una mejor coordinación y una acción integrada entre sectores y enfermedades. 
 
+Basados en estas directrices, organizaciones y investigadores han generado documentos ilustrativos que intentan operacionalizar el Manejo Integrado de Aedes (MIA) describiendo escenarios epidemiológicos y operativos a nivel de localidades (Roiz et al 2019) y en el interior de las areas urbanas endemicas de dengue (PAHO et al 2019; PAHO 2020; WHO,2023). 
 
 El programa Nacional de Prevención y Control de las Enfermedades Tranmitidas por Vectores (ETVs) e Intoxicación por  Veneno de Artrópodos (IVA) de la Secretaría de Salud, basados en el Manejo Integrado de Vectores (MIV) de la Organización Mundial de la Salud (WHO, 2017) definen e implementan el Manejo Integrado de las Arbovirosis (MIA) en México.
 
