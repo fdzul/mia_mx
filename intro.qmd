@@ -1,9 +1,17 @@
 # Introducción
 
+La organización mundial de la salud (OMS) define el manejo integrada de vectores (MIV) como el proceso racional en la toma de decisiones que fomenta el uso óptimo de los recursos para la implementación de los programa de prevención y control de vectores de manera eficiente, rentable y sostenible (OMS, 2004; OMS, 2017). 
+
+EL MIV incluye un portafolio de intervenciones combinadas y sincronizadas en tiempo y espacio basado en el conocimiento de la biología de los vectores, ciclos de transmisión, inmunidad de las poblaciones humanas y condiciones sociales y ecológicas. El fin ultimo de manejo integrada de vectores es reducir o interrumpir la transmisión por medio de la prevención, reducción y/ó eliminación de las condiciones que favorecen el desarollo y las abundancias de los vectores. 
+
+
+La Respuesta mundial para el control de vectores 2017-2030 (GVCR) (OMS, 2017) proporciona guía para fortalecer el control integrado de vectores a través del fortalecimiento de la capacidad, una mejor vigilancia, una mejor coordinación y una acción integrada entre sectores y enfermedades. 
+
+El programa Naciona de Prevención y Control de las Enfermedades Tranmitidas por Vectores (ETVs) e Intoxicación por  Veneno de Artropodos (IVA) de la Secretaría de salud, basados en el manejo integrada de vectores (MIV) de la Organización Mundial de la Salud (WHO, 2017) definen e implementan el Manejo Integrado de las Arbovirosis en México.
 
 ## Epidemiología del las arbovirosis del dengue.
 
 ## Definición de los escenarios operativos del dengue
 
-## 
+## Definición de la estacionalidad en México
 
