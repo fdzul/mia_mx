@@ -2,4 +2,15 @@
 
 ## [MIA en Mexico]{style="color:#660033;"}
 
+
+
+### Vigilancia Entomológica 
+
+![](mia_vigilancia_entomologica.png)
+
+### Acciones de Prevención y Control 
+![](mia_control.png)
+
+
+
 ## [MIA áreas urbanas endémicas en México]{style="color:#660033;"}
